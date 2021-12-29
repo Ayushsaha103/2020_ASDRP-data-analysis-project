@@ -40,6 +40,3 @@ feature_importance.sort_values('Importance', ascending=False, inplace=True)
 
 print(feature_importance)
 pyplot.show()
-
-
-#This project was done in 2020 by Ayush Saha, Andrew Cheng, Aathithya Selvam, and Pranav Damal
