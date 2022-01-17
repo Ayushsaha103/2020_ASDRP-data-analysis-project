@@ -1,3 +1,5 @@
+# This program was written in collaboration with students Pranav Damal, Andrew Cheng, and 
+
 import pandas as pd
 import sklearn
 from matplotlib import pyplot
