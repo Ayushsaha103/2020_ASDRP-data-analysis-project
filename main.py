@@ -1,4 +1,6 @@
-# This program was written in collaboration with students Pranav Damal, Andrew Cheng, and 
+# This program was written in collaboration with students Pranav Damal, Andrew Cheng, and Aathithya Selvam
+# Some of the code was from Jeff Spagnola, https://medium.com/swlh/decoding-customer-churn-6d1e941d0c7
+
 
 import pandas as pd
 import sklearn
